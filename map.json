@@ -1,1 +1,181 @@
 
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Event": "Yale Hacks 2015",
+        "Role": "Participant",
+        "Details": "Tic Tac Toe - A revolutionary new mobile game made by two noobs who learned a plethora of iOS knowledge in 36 hours."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.313830,
+          -72.930783
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Event": "Yale Hacks 2017 ",
+        "Role": "Participant",
+        "Details": "Rolling Ball Unity Game - Objective is to roll a ball to collect points and win the game!"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.313830,
+          -72.930783
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Event": "Hack Duke 2014 Code For Good ",
+        "Role": "Participant",
+        "Details": "Worked closely with non-profits, development organizations, and tech companies to address social issues. "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.003830,
+          -78.941002
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Event": "University of Waterloo ",
+        "Role": "Teaching Assistant",
+        "Details": "Technical Lab teaching assistant helping undergraduate students"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.470672,
+          -80.541312
+        ]
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "properties": {
+        "Event": "Velocity Startup Incubator",
+        "Role": "Residence/CEO/Entrepreneurship",
+        "Details": "Accepted in Velocity Residence Program, worked in a startup in Communitech's Velocity Garage with access to mentors, funding, and startup resources. Met my velocity family. Best experience of my life :) "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+            43.466042,
+            -80.542525
+        ]
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "properties": {
+        "Event": "Y Combinator's Startup School NYC 2014",
+        "Role": "Participant",
+        "Details": "Accepted to YC's Startup School MC'ed by Alexis ohanian with speakers  Shana Fisher, Fred Wilson, Zach Sims, Kathryn Minshew, Apoorva, Sam Altman, and Garry Tan "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.758161,
+          -73.986158
+        ]
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "properties": {
+        "Event": "Hack the North 2014",
+        "Role": "Volunteer",
+        "Details": "Part of original organizing team for Canada's biggest hackathon - Hack the North originating from Velocity Incubator. "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+            43.473110,
+            -80.540117
+        ]
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "properties": {
+        "Event": "Toronto Kairos Society Toronto",
+        "Role": "Attendee",
+        "Details": "Kairos Society is a global nonprofit organization that connects student entrepreneurs in the spaces of clean technology, healthcare, and education"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.643459,
+          -79.382240
+        ]
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "properties": {
+        "Event": "Canadian Undergraduate Technology Conference 2016",
+        "Role": "Presenter/Sponsor",
+        "Details": "Represented the University of Waterloo's Hyperloop Team in the SpaceX competition. Gave technical presentation and demo's to undergraduate STEM students from all over the world at MaRS Discovery District."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.660062,
+          -79.388568
+
+        ]
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "properties": {
+        "Event": "Hack Princeton 2016 and 2017",
+        "Role": "Hacker",
+        "Details": "Met fellow hackers, learned new technologies, and honed programming skills alongside seasoned mentors"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+            40.350507,
+            -74.652696
+
+        ]
+      }
+    }
+     ,
+    {
+      "type": "Feature",
+      "properties": {
+        "Event": "HACK THE 6iX 2018",
+        "Role": "Mentor",
+        "Details": "Mentored approx 400 hackers at Toronto’s largest summer hackathon"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.668847,
+          -79.393242
+
+        ]
+      }
+    }
+  ]
+}
