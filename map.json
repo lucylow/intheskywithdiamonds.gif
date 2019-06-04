@@ -1,1 +1,35 @@
-
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Event": "Google's <Br/eak>Inequality Hackathon",
+        "Role": "Participant",
+        "Details": "Top 10 Hack - CallAunty is an app which allows expectant mothers to call-in to determine if they are high risk and receive care"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.454443,
+          -80.498940
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Event": "MHacks 8",
+        "Role": "Participant",
+        "Details": "Motion controlled hardware attachment to control common household devices like light bulbs, sound system, and more"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.341747,
+          -83.060097
+        ]
+      }
+    }
+  ]
+}
