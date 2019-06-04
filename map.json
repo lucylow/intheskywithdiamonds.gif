@@ -1,4 +1,3 @@
-
 {
   "type": "FeatureCollection",
   "features": [
@@ -52,7 +51,7 @@
       "properties": {
         "Event": "University of Waterloo ",
         "Role": "Teaching Assistant",
-        "Details": "Technical Lab teaching assistant helping undergraduate students"
+        "Details": "Technical Lab teaching assistant helping undergraduate students."
       },
       "geometry": {
         "type": "Point",
@@ -84,7 +83,7 @@
       "properties": {
         "Event": "Y Combinator's Startup School NYC 2014",
         "Role": "Participant",
-        "Details": "Accepted to YC's Startup School MC'ed by Alexis ohanian with speakers  Shana Fisher, Fred Wilson, Zach Sims, Kathryn Minshew, Apoorva, Sam Altman, and Garry Tan "
+        "Details": "Accepted to YC's Startup School MC'ed by Alexis ohanian with speakers  Shana Fisher, Fred Wilson, Zach Sims, Kathryn Minshew, Apoorva, Sam Altman, and Garry Tan."
       },
       "geometry": {
         "type": "Point",
@@ -116,7 +115,7 @@
       "properties": {
         "Event": "Toronto Kairos Society Toronto",
         "Role": "Attendee",
-        "Details": "Kairos Society is a global nonprofit organization that connects student entrepreneurs in the spaces of clean technology, healthcare, and education"
+        "Details": "Kairos Society is a global nonprofit organization that connects student entrepreneurs in the spaces of clean technology, healthcare, and education."
       },
       "geometry": {
         "type": "Point",
@@ -149,7 +148,7 @@
       "properties": {
         "Event": "Hack Princeton 2016 and 2017",
         "Role": "Hacker",
-        "Details": "Met fellow hackers, learned new technologies, and honed programming skills alongside seasoned mentors"
+        "Details": "Met fellow hackers, learned new technologies, and honed programming skills alongside seasoned mentors :) "
       },
       "geometry": {
         "type": "Point",
@@ -161,12 +160,82 @@
       }
     }
      ,
+
+    {
+      "type": "Feature",
+      "properties": {
+        "Event": "Google's <Br/eak>Inequality Hackathon",
+        "Role": "Participant",
+        "Details": "Top 10 Hack at Google - CallAunty is an app which allows expectant mothers to call-in to determine if they are high risk and receive care."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.454443,
+          -80.498940
+        ]
+      }
+    }
+     ,
+
+
+    {
+      "type": "Feature",
+      "properties": {
+        "Event": "MHacks 8",
+        "Role": "Participant",
+        "Details": "Motion controlled hardware attachment to control common household devices like light bulbs, sound system, and more. One of my favorite hardware hacks."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.341747,
+          -83.060097
+        ]
+      }
+    }
+     ,
+
+    {
+      "type": "Feature",
+      "properties": {
+        "Event": "Perimeter Institute for Theoretical Physics 2018",
+        "Role": "Invited researcher",
+        "Details": "Network with graduate students, postdocs and faculty members in theoretical physics specifically in  cutting-edge research on condensed matter, cosmology, quantum fields/gravity/strings, and mathematical physics."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.465396,
+          -80.527540
+        ]
+      }
+    }
+     ,
+
+    {
+      "type": "Feature",
+      "properties": {
+        "Event": "Mercedes-Benz Digital Challenge Berlin 2017",
+        "Role": "Software developer",
+        "Details": " Invited by Mercedes-Benz's Innovation Lab to be one of the first to start building with the 80+ mock APIs, SDKs and car emulators in an 8-week challenge."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.509903,
+          13.394262
+        ]
+      }
+    }
+     ,
+
     {
       "type": "Feature",
       "properties": {
         "Event": "HACK THE 6iX 2018",
         "Role": "Mentor",
-        "Details": "Mentored approx 400 hackers at Toronto’s largest summer hackathon"
+        "Details": "Technical mentor for event with approximately 400 hackers at Toronto’s largest summer hackathon. Lit."
       },
       "geometry": {
         "type": "Point",
