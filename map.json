@@ -216,6 +216,41 @@
     {
       "type": "Feature",
       "properties": {
+        "Event": "Kairos Society Canada Charity Hackathon",
+        "Role": "Attendee",
+        "Details": " Invited by Kairos Society as an entrepreneur to help solve challenges where goverments and private industries have failed to innovate. Specifcally worked with The Salvation Army brainstorming ideas. Partnership with OCAD University."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.653219,
+          -79.391141
+        ]
+      }
+    }
+     ,
+
+    {
+      "type": "Feature",
+      "properties": {
+        "Event": "Fireside Chat with Steve Wozniak",
+         "Role": "Attendee",
+        "Details": " Got waitlisted for tickets and lined up three hours in advance to get a front seat to see Steve Wozniak, co-founder of Apple Inc at University of San Francisco. 10/10 would do again :)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.777098,
+          -122.449554
+        ]
+      }
+    }
+     ,
+
+
+    {
+      "type": "Feature",
+      "properties": {
         "Event": "Mercedes-Benz Digital Challenge Berlin 2017",
         "Role": "Software developer",
         "Details": " Invited by Mercedes-Benz's Innovation Lab to be one of the first to start building with the 80+ mock APIs, SDKs and car emulators in an 8-week challenge."
