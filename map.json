@@ -268,6 +268,23 @@
     {
       "type": "Feature",
       "properties": {
+        "Event": "SpaceX Hyperloop Engineering Design Competition 2016",
+        "Role": "Waterloop Canadian Team",
+        "Details": "Represented University of Waterloo's Canadian Team - Waterloop at the Hyperloop pod design competition at Texas A&M University. Comeptition where teams participating design and build a subscale prototype transport vehicle to demonstrate te technical feasibility of various aspects of Elon Musk's Hyperloop concept. Tesla and SpaceX engineers as judges."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.610386,
+          -96.340126
+        ]
+      }
+    }
+     ,
+
+    {
+      "type": "Feature",
+      "properties": {
         "Event": "HACK THE 6iX 2018",
         "Role": "Mentor",
         "Details": "Technical mentor for event with approximately 400 hackers at Toronto’s largest summer hackathon. Lit."
