@@ -285,6 +285,25 @@
     {
       "type": "Feature",
       "properties": {
+        "Event": "Bloomberg Terminal Certification (BMC) 2013/2014",
+        "Role": "Finance Certification",
+        "Details": "Completed an e-learning course that provides visual introduction to financial markets and the core functionality of the Bloomberg terminal. After finishing BMC, Bloomberg provides a Certificate of Completion. "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.468657,
+          -80.541514
+
+        ]
+      }
+    }
+     ,
+
+
+    {
+      "type": "Feature",
+      "properties": {
         "Event": "HACK THE 6iX 2018",
         "Role": "Mentor",
         "Details": "Technical mentor for event with approximately 400 hackers at Toronto’s largest summer hackathon. Lit."
