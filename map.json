@@ -164,6 +164,24 @@
     {
       "type": "Feature",
       "properties": {
+        "Event": "Prospectors & Developers Association of Canada 2015/2016",
+        "Role": "Member",
+        "Details": "Four-day annual international convention held in Toronto, Canada for the minerals and mining industry attracting exhibitors, investors, analysts, mining executives, geologists and government officials. Attended technical sessions, short courses, and networking events."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+            43.644675,
+            -79.385651
+
+        ]
+      }
+    }
+     ,
+
+    {
+      "type": "Feature",
+      "properties": {
         "Event": "Google's <Br/eak>Inequality Hackathon",
         "Role": "Participant",
         "Details": "Top 10 Hack at Google - CallAunty is an app which allows expectant mothers to call-in to determine if they are high risk and receive care."
