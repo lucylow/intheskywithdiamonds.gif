@@ -31,12 +31,27 @@
         ]
       }
     },
+{
+      "type": "Feature",
+      "properties": {
+        "Event": "Let's Talk Science Outreach",
+        "Role": "Earth Scientist",
+        "Details": "Presented science demonstration related to water density for kids at the Childern's Groundwater Festival at the Waterloo Region Museum. Name of talk was - Motion of the Ocean "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.400806,
+          -80.438239
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
-        "Event": "Hack Duke 2014 Code For Good ",
+        "Event": "Hack Duke 2014 #CodeForGood ",
         "Role": "Participant",
-        "Details": "Worked closely with non-profits, development organizations, and tech companies to address social issues. "
+        "Details": "Largest collegiate hackathon addressing social good with four tracks: Inequality, energy, health, and education. Worked closely with non-profits, development organizations, and tech companies to address social issues and promote innovation and technology. "
       },
       "geometry": {
         "type": "Point",
@@ -146,6 +161,23 @@
     {
       "type": "Feature",
       "properties": {
+        "Event": "Microsoft Azure Machine Learning Contest 2016",
+        "Role": "CUTC Participant",
+        "Details": "Predictive modelling contest on building, scoring and evaluating a predictive model with Microsoft technical evangelists. Experiment model evaluation. Testing true positive, false natives, accuracy, precision using Microsoft Azure's Machine Learning Studio software."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.660062,
+          -79.388568
+
+        ]
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "properties": {
         "Event": "Hack Princeton 2016 and 2017",
         "Role": "Hacker",
         "Details": "Integrated a Microscoft Word add-on that allows audio parsing of the data. with Bing's speech text to speech API.  "
@@ -173,6 +205,24 @@
         "coordinates": [
             43.644675,
             -79.385651
+
+        ]
+      }
+    }
+     ,
+
+    {
+      "type": "Feature",
+      "properties": {
+        "Event": "QuizUp Top 10 in California 2017",
+        "Role": "Trivia Game Player",
+        "Details": "Top 10 in California In Physics Trivia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+            34.0693686,
+            -118.4462365
 
         ]
       }
@@ -335,6 +385,65 @@
     }
      ,
 
+
+    {
+      "type": "Feature",
+      "properties": {
+        "Event": "University of Waterloo ",
+        "Role": "Electronic Media Coordinator",
+        "Details": "Compiled bi-weekly web analysis reports using quantitative traffic stats from Google Analytics for the Marketing and Communications Department, Federation of Students. Re-designed the website with Wordpress CMS integration. "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.471757,
+          -80.545479
+
+        ]
+      }
+    }
+     ,
+
+
+
+    {
+      "type": "Feature",
+      "properties": {
+        "Event": "Students Offering Support National Office ",
+        "Role": "Web Developer",
+        "Details": "Developed dynamic websites using JavaScript, PHP, MySQL and MVC CodeIgniter Framework. Implemented an internal user search functionality using AJAX and JSON. "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.667062,
+          -79.403091
+
+        ]
+      }
+    }
+     ,
+
+
+
+
+    {
+      "type": "Feature",
+      "properties": {
+        "Event": "Geological Society of America",
+        "Role": "GSA Professional Membership 9173757",
+        "Details": " Membership access to geological-related articles for professionals teaching geology at the collegiate level. Access to publications and online journals like GSA Bullitin, Geology, and Lithosphere. "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.037687,
+          -105.250421
+
+        ]
+      }
+    }
+     ,
 
     {
       "type": "Feature",
