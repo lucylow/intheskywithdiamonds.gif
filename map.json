@@ -64,6 +64,22 @@
     {
       "type": "Feature",
       "properties": {
+        "Event": "WHMIS and MSDS Training Canada system",
+        "Role": "Workplace Training",
+        "Details": "WHMIS - Workplace hazardous materialsinfrmation system for handling workplace hazardous controlled products. Trained in reading MSDS - Material Safety Data sheets."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.470672,
+          -80.541312
+        ]
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "properties": {
         "Event": "University of Waterloo ",
         "Role": "Teaching Assistant",
         "Details": "Technical Lab teaching assistant helping undergraduate students."
