@@ -109,6 +109,23 @@
       }
     }
     ,
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "Event": "Junior Achievement of Canada",
+        "Role": "Certificate of Accomplishment",
+        "Details": "By providing youth with the skills necessary to become innovative, productive, and contributing citizens. Focusing on financial literacy, work readiness, and entrepreneurship."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+            43.646825,
+            -79.378772
+        ]
+      }
+    }
+    ,
     {
       "type": "Feature",
       "properties": {
