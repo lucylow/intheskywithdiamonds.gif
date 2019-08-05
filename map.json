@@ -442,6 +442,25 @@
     {
       "type": "Feature",
       "properties": {
+        "Event": "AIESEC Canada Inc - National Sales Program [NSP] 2014",
+        "Role": "Waterloo Delegate",
+        "Details": "Delegate for conference on B2C business to consumers sales for the Canadian National Sales Program [NSP] at the Ted Rogers School of Management. "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.659067,
+          -79.383017
+
+        ]
+      }
+    }
+     ,
+
+
+    {
+      "type": "Feature",
+      "properties": {
         "Event": "Students Offering Support National Office ",
         "Role": "Web Developer",
         "Details": "Developed dynamic websites using JavaScript, PHP, MySQL and MVC CodeIgniter Framework. Implemented an internal user search functionality using AJAX and JSON. "
