@@ -313,13 +313,13 @@
       }
     }
      ,
-
+ 
     {
       "type": "Feature",
       "properties": {
         "Event": "Kairos Society Canada Charity Hackathon",
         "Role": "Attendee",
-        "Details": " Invited by Kairos Society as an entrepreneur to help solve challenges where goverments and private industries have failed to innovate. Specifcally worked with The Salvation Army brainstorming ideas. Partnership with OCAD University."
+        "Details": " Invited by Kairos Society as an entrepreneur to solve challenges where goverments and private industries have failed to innovate. Specifcally partnered with The Salvation Army brainstorming ideas. Sponsored by OCAD University."
       },
       "geometry": {
         "type": "Point",
