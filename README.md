@@ -1,3 +1,3 @@
-# Lucy intheskywithdiamonds.gif (｡◕‿◕｡)
+# intheskywithdiamonds.gif (｡◕‿◕｡)
 
 
