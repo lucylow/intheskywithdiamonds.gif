@@ -247,6 +247,44 @@
     {
       "type": "Feature",
       "properties": {
+        "Event": "Elevate Tech Fest 2019",
+        "Role": "OpenHouse Lead",
+        "Details": "Led a team of volunteers for the Startup OpenHouse (+200 startups in Toronto area). Pushed Boomset ticketing and Elevate app - I was the liason between startups, organizors, and attendees."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+            43.647927,
+            -79.380371
+
+        ]
+      }
+    }
+     ,    
+    
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "Event": "Grace Hopper Celebration GHC2019 ",
+        "Role": "Scholarship",
+        "Details": "The Grace Hopper Celebration of Women in Computing is a series of conferences designed to bring the research and career interests of women in computing to the forefront. It is the world's largest gathering of women in computing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 
+            28.425129,
+            -81.469415
+
+        ]
+      }
+    }
+     ,
+    
+    
+    {
+      "type": "Feature",
+      "properties": {
         "Event": "QuizUp Top 10 in California 2017",
         "Role": "Trivia Game Player",
         "Details": "Top 10 in California In Physics Trivia"
