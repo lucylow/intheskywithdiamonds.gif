@@ -244,6 +244,24 @@
     }
      ,
 
+     {   
+      "type": "Feature",
+      "properties": {
+        "Event": "WISE National Conference - Women in Science and Engineering Conference 2014",
+        "Role": "University of Waterloo Delegate",
+        "Details": "Held at the University of Toronto, an annual international convention brings together experts in technology, consulting, healthcare, and more for two days of student career exploration, workshops, networking, and $1000 cash prize competitions."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+            43.659003,
+            -79.397491
+
+        ]
+      }
+    }
+     ,    
+    
     {
       "type": "Feature",
       "properties": {
