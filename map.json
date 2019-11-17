@@ -196,7 +196,7 @@
       "properties": {
         "Event": "Microsoft Azure Machine Learning Contest 2016",
         "Role": "CUTC Participant",
-        "Details": "Predictive modelling contest on building, scoring and evaluating a predictive model with Microsoft technical evangelists. Experiment model evaluation. Testing true positive, false natives, accuracy, precision using Microsoft Azure's Machine Learning Studio software."
+        "Details": "Predictive modelling contest on building, scoring and evaluating a predictive model with Microsoft technical evangelists. Built a prediction model based on a search algorithm using flight data from Microsoft Azure to predict whether or not a flight will be late. Finished with a precision score of 0.749, higher than the average 0.537. "
       },
       "geometry": {
         "type": "Point",
@@ -444,7 +444,7 @@
       "properties": {
         "Event": "SpaceX Hyperloop Engineering Design Competition 2016",
         "Role": "Waterloop Canadian Team",
-        "Details": "Represented University of Waterloo's Canadian Team - Waterloop at the Hyperloop pod design competition at Texas A&M University. Comeptition where teams participating design and build a subscale prototype transport vehicle to demonstrate te technical feasibility of various aspects of Elon Musk's Hyperloop concept. Tesla and SpaceX engineers as judges."
+        "Details": "Represented University of Waterloo's Canadian Team - Waterloop at the Hyperloop pod design competition at Texas A&M University. Comeptition where teams participating design and build a subscale prototype transport vehicle to demonstrate te technical feasibility of various aspects of Elon Musk's Hyperloop concept. Tesla and SpaceX engineers as judges. One of 30 teams chosen from 1,200 international teams to build a levitating pod at SpaceX HQ "
       },
       "geometry": {
         "type": "Point",
